@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "chat-app",
+    "multi-room-chat-app",
+    "multi-user-chat-app",
+    "nodejs",
+    "websockets",
+    "socket.io"
+  ],
+  "author": "Divash",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
